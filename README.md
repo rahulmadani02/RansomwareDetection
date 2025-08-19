@@ -14,6 +14,7 @@ Visualize opcode patterns (charts & word cloud)
 Train and compare models interactively
 
 Run the app
+
 pip install -r requirements.txt
 
 streamlit run app.py
